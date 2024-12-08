@@ -21,7 +21,7 @@
 
 - **the record information of each submission**
 
->git push
+>git push origin main
 
 - **push all changes to remote repostry**
 
@@ -31,3 +31,15 @@
 
 - **manage branch**  
   
+
+
+
+1. **Set up upstream branch and push code**  
+   run below command：
+   ```bash
+   git push --set-upstream origin main
+   ```
+ 
+
+   After that, you can push the repository by running `git push` directly without specifying any additional parameters.
+```
