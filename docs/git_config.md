@@ -42,4 +42,3 @@
  
 
    After that, you can push the repository by running `git push` directly without specifying any additional parameters.
-```
